@@ -1,0 +1,14 @@
+C:\DOT NET\Basic Of DotNet\ForLoop(+3 Increase)\ForLoop(+3 Increase)\bin\Debug\net10.0\ForLoop(+3 Increase).exe
+C:\DOT NET\Basic Of DotNet\ForLoop(+3 Increase)\ForLoop(+3 Increase)\bin\Debug\net10.0\ForLoop(+3 Increase).deps.json
+C:\DOT NET\Basic Of DotNet\ForLoop(+3 Increase)\ForLoop(+3 Increase)\bin\Debug\net10.0\ForLoop(+3 Increase).runtimeconfig.json
+C:\DOT NET\Basic Of DotNet\ForLoop(+3 Increase)\ForLoop(+3 Increase)\bin\Debug\net10.0\ForLoop(+3 Increase).dll
+C:\DOT NET\Basic Of DotNet\ForLoop(+3 Increase)\ForLoop(+3 Increase)\bin\Debug\net10.0\ForLoop(+3 Increase).pdb
+C:\DOT NET\Basic Of DotNet\ForLoop(+3 Increase)\ForLoop(+3 Increase)\obj\Debug\net10.0\ForLoop(+3 Increase).GeneratedMSBuildEditorConfig.editorconfig
+C:\DOT NET\Basic Of DotNet\ForLoop(+3 Increase)\ForLoop(+3 Increase)\obj\Debug\net10.0\ForLoop(+3 Increase).AssemblyInfoInputs.cache
+C:\DOT NET\Basic Of DotNet\ForLoop(+3 Increase)\ForLoop(+3 Increase)\obj\Debug\net10.0\ForLoop(+3 Increase).AssemblyInfo.cs
+C:\DOT NET\Basic Of DotNet\ForLoop(+3 Increase)\ForLoop(+3 Increase)\obj\Debug\net10.0\ForLoop(+3 Increase).csproj.CoreCompileInputs.cache
+C:\DOT NET\Basic Of DotNet\ForLoop(+3 Increase)\ForLoop(+3 Increase)\obj\Debug\net10.0\ForLoop(+3 Increase).dll
+C:\DOT NET\Basic Of DotNet\ForLoop(+3 Increase)\ForLoop(+3 Increase)\obj\Debug\net10.0\refint\ForLoop(+3 Increase).dll
+C:\DOT NET\Basic Of DotNet\ForLoop(+3 Increase)\ForLoop(+3 Increase)\obj\Debug\net10.0\ForLoop(+3 Increase).pdb
+C:\DOT NET\Basic Of DotNet\ForLoop(+3 Increase)\ForLoop(+3 Increase)\obj\Debug\net10.0\ForLoop(+3 Increase).genruntimeconfig.cache
+C:\DOT NET\Basic Of DotNet\ForLoop(+3 Increase)\ForLoop(+3 Increase)\obj\Debug\net10.0\ref\ForLoop(+3 Increase).dll

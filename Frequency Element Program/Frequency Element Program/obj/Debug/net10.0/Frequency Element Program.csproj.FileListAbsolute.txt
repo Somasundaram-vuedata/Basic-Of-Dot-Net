@@ -1,0 +1,14 @@
+C:\DOT NET\Basic Of DotNet\Frequency Element Program\Frequency Element Program\bin\Debug\net10.0\Frequency Element Program.exe
+C:\DOT NET\Basic Of DotNet\Frequency Element Program\Frequency Element Program\bin\Debug\net10.0\Frequency Element Program.deps.json
+C:\DOT NET\Basic Of DotNet\Frequency Element Program\Frequency Element Program\bin\Debug\net10.0\Frequency Element Program.runtimeconfig.json
+C:\DOT NET\Basic Of DotNet\Frequency Element Program\Frequency Element Program\bin\Debug\net10.0\Frequency Element Program.dll
+C:\DOT NET\Basic Of DotNet\Frequency Element Program\Frequency Element Program\bin\Debug\net10.0\Frequency Element Program.pdb
+C:\DOT NET\Basic Of DotNet\Frequency Element Program\Frequency Element Program\obj\Debug\net10.0\Frequency Element Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOT NET\Basic Of DotNet\Frequency Element Program\Frequency Element Program\obj\Debug\net10.0\Frequency Element Program.AssemblyInfoInputs.cache
+C:\DOT NET\Basic Of DotNet\Frequency Element Program\Frequency Element Program\obj\Debug\net10.0\Frequency Element Program.AssemblyInfo.cs
+C:\DOT NET\Basic Of DotNet\Frequency Element Program\Frequency Element Program\obj\Debug\net10.0\Frequency Element Program.csproj.CoreCompileInputs.cache
+C:\DOT NET\Basic Of DotNet\Frequency Element Program\Frequency Element Program\obj\Debug\net10.0\Frequency Element Program.dll
+C:\DOT NET\Basic Of DotNet\Frequency Element Program\Frequency Element Program\obj\Debug\net10.0\refint\Frequency Element Program.dll
+C:\DOT NET\Basic Of DotNet\Frequency Element Program\Frequency Element Program\obj\Debug\net10.0\Frequency Element Program.pdb
+C:\DOT NET\Basic Of DotNet\Frequency Element Program\Frequency Element Program\obj\Debug\net10.0\Frequency Element Program.genruntimeconfig.cache
+C:\DOT NET\Basic Of DotNet\Frequency Element Program\Frequency Element Program\obj\Debug\net10.0\ref\Frequency Element Program.dll

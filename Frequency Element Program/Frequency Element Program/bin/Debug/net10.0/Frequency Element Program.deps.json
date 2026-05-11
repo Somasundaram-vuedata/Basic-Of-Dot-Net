@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Frequency Element Program/1.0.0": {
+        "runtime": {
+          "Frequency Element Program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Frequency Element Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

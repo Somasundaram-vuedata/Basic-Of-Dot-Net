@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ForLoop(+3 Increase)/1.0.0": {
+        "runtime": {
+          "ForLoop(+3 Increase).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ForLoop(+3 Increase)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
