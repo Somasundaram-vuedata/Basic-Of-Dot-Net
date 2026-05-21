@@ -1,0 +1,14 @@
+C:\DOT NET\Basic Of DotNet\Fibonacci Sequwnce\Fibonacci Sequwnce\obj\Debug\net10.0\Fibonacci Sequwnce.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOT NET\Basic Of DotNet\Fibonacci Sequwnce\Fibonacci Sequwnce\obj\Debug\net10.0\Fibonacci Sequwnce.AssemblyInfoInputs.cache
+C:\DOT NET\Basic Of DotNet\Fibonacci Sequwnce\Fibonacci Sequwnce\obj\Debug\net10.0\Fibonacci Sequwnce.AssemblyInfo.cs
+C:\DOT NET\Basic Of DotNet\Fibonacci Sequwnce\Fibonacci Sequwnce\obj\Debug\net10.0\Fibonacci Sequwnce.csproj.CoreCompileInputs.cache
+C:\DOT NET\Basic Of DotNet\Fibonacci Sequwnce\Fibonacci Sequwnce\bin\Debug\net10.0\Fibonacci Sequwnce.exe
+C:\DOT NET\Basic Of DotNet\Fibonacci Sequwnce\Fibonacci Sequwnce\bin\Debug\net10.0\Fibonacci Sequwnce.deps.json
+C:\DOT NET\Basic Of DotNet\Fibonacci Sequwnce\Fibonacci Sequwnce\bin\Debug\net10.0\Fibonacci Sequwnce.runtimeconfig.json
+C:\DOT NET\Basic Of DotNet\Fibonacci Sequwnce\Fibonacci Sequwnce\bin\Debug\net10.0\Fibonacci Sequwnce.dll
+C:\DOT NET\Basic Of DotNet\Fibonacci Sequwnce\Fibonacci Sequwnce\bin\Debug\net10.0\Fibonacci Sequwnce.pdb
+C:\DOT NET\Basic Of DotNet\Fibonacci Sequwnce\Fibonacci Sequwnce\obj\Debug\net10.0\Fibonacci Sequwnce.dll
+C:\DOT NET\Basic Of DotNet\Fibonacci Sequwnce\Fibonacci Sequwnce\obj\Debug\net10.0\refint\Fibonacci Sequwnce.dll
+C:\DOT NET\Basic Of DotNet\Fibonacci Sequwnce\Fibonacci Sequwnce\obj\Debug\net10.0\Fibonacci Sequwnce.pdb
+C:\DOT NET\Basic Of DotNet\Fibonacci Sequwnce\Fibonacci Sequwnce\obj\Debug\net10.0\Fibonacci Sequwnce.genruntimeconfig.cache
+C:\DOT NET\Basic Of DotNet\Fibonacci Sequwnce\Fibonacci Sequwnce\obj\Debug\net10.0\ref\Fibonacci Sequwnce.dll
