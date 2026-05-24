@@ -1,0 +1,14 @@
+C:\DOT NET\Basic Of DotNet\Multiplication Table\Multiplication Table\bin\Debug\net10.0\Multiplication Table.exe
+C:\DOT NET\Basic Of DotNet\Multiplication Table\Multiplication Table\bin\Debug\net10.0\Multiplication Table.deps.json
+C:\DOT NET\Basic Of DotNet\Multiplication Table\Multiplication Table\bin\Debug\net10.0\Multiplication Table.runtimeconfig.json
+C:\DOT NET\Basic Of DotNet\Multiplication Table\Multiplication Table\bin\Debug\net10.0\Multiplication Table.dll
+C:\DOT NET\Basic Of DotNet\Multiplication Table\Multiplication Table\bin\Debug\net10.0\Multiplication Table.pdb
+C:\DOT NET\Basic Of DotNet\Multiplication Table\Multiplication Table\obj\Debug\net10.0\Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOT NET\Basic Of DotNet\Multiplication Table\Multiplication Table\obj\Debug\net10.0\Multiplication Table.AssemblyInfoInputs.cache
+C:\DOT NET\Basic Of DotNet\Multiplication Table\Multiplication Table\obj\Debug\net10.0\Multiplication Table.AssemblyInfo.cs
+C:\DOT NET\Basic Of DotNet\Multiplication Table\Multiplication Table\obj\Debug\net10.0\Multiplication Table.csproj.CoreCompileInputs.cache
+C:\DOT NET\Basic Of DotNet\Multiplication Table\Multiplication Table\obj\Debug\net10.0\Multiplication Table.dll
+C:\DOT NET\Basic Of DotNet\Multiplication Table\Multiplication Table\obj\Debug\net10.0\refint\Multiplication Table.dll
+C:\DOT NET\Basic Of DotNet\Multiplication Table\Multiplication Table\obj\Debug\net10.0\Multiplication Table.pdb
+C:\DOT NET\Basic Of DotNet\Multiplication Table\Multiplication Table\obj\Debug\net10.0\Multiplication Table.genruntimeconfig.cache
+C:\DOT NET\Basic Of DotNet\Multiplication Table\Multiplication Table\obj\Debug\net10.0\ref\Multiplication Table.dll
