@@ -1,0 +1,130 @@
+3. Store Number
+int num = 53829;
+
+We store the number in variable num.
+
+Memory:
+
+num = 53829
+4. Store Largest Digit
+int largest = 0;
+
+We assume largest digit is 0 initially.
+
+Why?
+
+Because digits are from 0 to 9.
+
+5. While Loop
+while (num > 0)
+
+This loop runs until number becomes 0.
+
+Important Logic
+
+We remove digits one by one from right side.
+
+Example:
+
+53829
+
+Process:
+
+53829
+5382
+538
+53
+5
+0
+6. Get Last Digit
+int digit = num % 10;
+
+% means modulus operator.
+
+It gives remainder.
+
+Example:
+
+53829 % 10 = 9
+
+Because:
+
+53829 ÷ 10
+remainder = 9
+
+So:
+
+digit = 9
+7. Compare Digits
+if (digit > largest)
+
+Check:
+
+Is current digit bigger than largest?
+
+If yes:
+
+largest = digit;
+8. Remove Last Digit
+num = num / 10;
+
+This removes last digit.
+
+Example:
+
+53829 / 10 = 5382
+
+Because integer division removes decimal.
+
+FULL DRY RUN
+First Loop
+num = 53829
+digit = 53829 % 10 = 9
+
+Compare:
+
+9 > 0 → true
+
+So:
+
+largest = 9
+
+Remove last digit:
+
+num = 53829 / 10 = 5382
+Second Loop
+num = 5382
+digit = 2
+
+Compare:
+
+2 > 9 → false
+
+No change.
+
+Remove digit:
+
+num = 538
+Third Loop
+digit = 8
+8 > 9 → false
+
+Continue.
+
+Fourth Loop
+digit = 3
+3 > 9 → false
+Fifth Loop
+digit = 5
+5 > 9 → false
+End
+num = 0
+
+Loop stops.
+
+Final Output
+Console.WriteLine("Largest Digit: " + largest);
+
+Output:
+
+Largest Digit: 9
